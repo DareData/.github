@@ -20,6 +20,10 @@ Our relevant open repos are linked below - each repo can be used on a self-learn
 * Foundations (https://github.com/DareData/lp-foundations)
 * Data Analytics (https://github.com/DareData/lp-data-analytics)
 * Pytorch Fundamentals(https://github.com/DareData/lp-pytorch-fundamentals)
+* Git Basics(https://github.com/DareData/lp-git-basics)
+
+Apart from learning repos, feel free to check our Awesome Resources repo (curated by dd members):
+* DareData Awesome Resources(https://github.com/DareData/awesome-daredata-resources)
 
 ## Our Case Studies and Blog
 
